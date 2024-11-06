@@ -50,4 +50,42 @@ The data was explored to answer questions like:
 ### Data Analysis
 Listed below are the queries I used in answering the questions:
 
+```SQL
+select region, COUNT(customerid) as Amount_of_Customers from customerdata
+group by region
+order by 2 desc
+
+select top(1) subscriptiontype, count(customerid) as Popular_Subscription from customerdata
+group by subscriptiontype
+order by 2 desc
+
+select * from customerdata
+where canceled = 1
+and subscriptionduration < 183
+select count(customerid) from customerdata
+where canceled = 1
+
+select AVG(subscriptionduration)as Average_Subscription_Duration from customerdata
+
+select * from customerdata
+where subscriptionduration > 366
+
+select subscriptiontype, sum(revenue) as TotalRevenue from customerdata 
+group by subscriptiontype
+order by 2 desc
+
+select top(3) region, count(customerid) as SubscriptionCancellation from customerdata
+where canceled = 1
+group by region
+order by 2 desc
+
+select count(customerid) as Active_Subscriptions from customerdata
+where canceled = 0
+
+select count(customerid) as Canceled_Subscriptions from customerdata
+where canceled = 1
+```
+
 ### Data Visualization
+
+![Customer Excel](https://github.com/user-attachments/assets/6d54efe6-07a4-4e18-aad6-b0a6ba3f16fe)
