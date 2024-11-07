@@ -87,5 +87,23 @@ where canceled = 1
 ```
 
 ### Data Visualization
+Here are some tables and dashboards from Microsoft Excel and Microsoft PowerBI;
 
-![Customer Excel](https://github.com/user-attachments/assets/6d54efe6-07a4-4e18-aad6-b0a6ba3f16fe)
+|Region|Revenue|
+|------|-------|
+|North|16,817,972|
+|West|16,864,376|
+|South|16,899,064|
+|East|16,958,763|
+|Grand Total|67,540,175|
+
+|Subscription Type|Amount of Customers|
+|-----------------|-------------------|
+|Standard|8,420|
+|Premium|8,446|
+|Basic|16,921|
+|Grand Total|33,787|
+
+![Customer Excel](https://github.com/user-attachments/assets/0b284ab9-e080-42c4-ae28-1b98a987af5b)
+
+![Customer BI](https://github.com/user-attachments/assets/6d255f0f-0c16-4fa6-a2a6-be407a456a4c)
