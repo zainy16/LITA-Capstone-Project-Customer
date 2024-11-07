@@ -89,13 +89,28 @@ where canceled = 1
 ### Data Visualization
 Here are some tables and dashboards from Microsoft Excel and Microsoft PowerBI;
 
-|Region|Revenue|
-|------|-------|
+|Region|Total Revenue|
+|------|-------------|
 |North|16,817,972|
 |West|16,864,376|
 |South|16,899,064|
 |East|16,958,763|
 |Grand Total|67,540,175|
+
+|Subscription Type|Total Revenue|
+|-----------------|-------------|
+|Standard|16,864,376|
+|Premium|16,899,064|
+|Basic|33,776,735|
+|Grand Total|67,540,175|
+
+|Region|Amount of Customers|
+|------|-------------------|
+|West|8,420|
+|North|8,433|
+|South|8,446|
+|East|8,488|
+|Grand Total|33,787|
 
 |Subscription Type|Amount of Customers|
 |-----------------|-------------------|
