@@ -17,7 +17,7 @@ This shows one of the two final projects I worked on while undergoing the Ladies
 
 [Data Visualization](#data-visualization)
 
-### Project Title: Sales Data Analysis
+### Project Title: Customer Data Analysis
 
 ### Project Overview
 The aim of this project is to analyze the customer data of a subscription service. The goal was to understand customer behaviour, track subscription types and identify key trends in cancellations and renewals.
