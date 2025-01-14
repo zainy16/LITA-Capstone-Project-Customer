@@ -121,4 +121,4 @@ Here are some tables and dashboards from Microsoft Excel and Microsoft PowerBI;
 
 ![Customer Excel](https://github.com/user-attachments/assets/0b284ab9-e080-42c4-ae28-1b98a987af5b)
 
-![Customer BI](https://github.com/user-attachments/assets/6d255f0f-0c16-4fa6-a2a6-be407a456a4c)
+<img width="575" alt="New Customer BI" src="https://github.com/user-attachments/assets/76d774da-b980-44d1-a057-5147771e7d04" />
